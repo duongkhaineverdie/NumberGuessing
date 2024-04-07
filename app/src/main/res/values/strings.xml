@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Guessing</string>
+    <string name="high_score_regex">High Score: %d</string>
+    <string name="level_game_regex">Level game: %d</string>
+    <string name="choose_left_regex">Choose Left: %d</string>
+    <string name="next_level">Next Level</string>
+    <string name="new_game">New Game</string>
+</resources>
