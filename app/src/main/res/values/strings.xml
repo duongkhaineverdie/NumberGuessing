@@ -5,4 +5,5 @@
     <string name="choose_left_regex">Choose Left: %d</string>
     <string name="next_level">Next Level</string>
     <string name="new_game">New Game</string>
+    <string name="difficult">Difficult</string>
 </resources>

@@ -101,7 +101,7 @@ fun HomeScreen(
             ) {
                 Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.Center) {
                     Text(
-                        text = "Khó",
+                        text = stringResource(id = R.string.difficult),
                         modifier = Modifier.padding(40.dp),
                         style = MaterialTheme.typography.titleLarge,
                         color = Color.Black,
